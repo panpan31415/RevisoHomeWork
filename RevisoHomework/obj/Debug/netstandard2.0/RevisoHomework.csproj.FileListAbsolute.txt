@@ -1,0 +1,9 @@
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\bin\Debug\netstandard2.0\RevisoHomework.deps.json
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\bin\Debug\netstandard2.0\RevisoHomework.dll
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\obj\Debug\netstandard2.0\RevisoHomework.csprojResolveAssemblyReference.cache
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\obj\Debug\netstandard2.0\RevisoHomework.csproj.CoreCompileInputs.cache
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\obj\Debug\netstandard2.0\RevisoHomework.AssemblyInfoInputs.cache
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\obj\Debug\netstandard2.0\RevisoHomework.AssemblyInfo.cs
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\bin\Debug\netstandard2.0\RevisoHomework.pdb
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\obj\Debug\netstandard2.0\RevisoHomework.dll
+C:\Users\Panpan\Desktop\RevisoHomework\RevisoHomework\obj\Debug\netstandard2.0\RevisoHomework.pdb
